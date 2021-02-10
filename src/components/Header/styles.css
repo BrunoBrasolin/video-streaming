@@ -2,7 +2,13 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 30px;
+  padding: 15px 30px;
+  transition: box-shadow 0.4s;
+  cursor: default;
+}
+
+header:hover {
+  box-shadow: -9px -7px 17px rgb(0 0 0 / 50%);
 }
 
 header img {
@@ -10,24 +16,44 @@ header img {
   width: 48px;
 }
 
+header .primaryText {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+header .secondaryText {
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: #bbbbbd;
+}
+
 header #usernameDateTime {
   display: flex;
   align-items: center;
 }
 
-header #usernameDateTime #dateTime {
+header .content {
   display: flex;
   flex-direction: column;
   margin-left: 1rem;
 }
 
-header #usernameDateTime #dateTime #time {
-  font-size: 1.1rem;
-  font-weight: bold;
+header #weatherSvgLocation {
+  display: flex;
+  align-items: center;
 }
 
-header #usernameDateTime #dateTime #date {
-  font-size: 0.75rem;
-  font-weight: bold;
-  color: #bbbbbd;
+header .svgContainer {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 50%;
+  padding: calc(36px - 20px);
+  display: flex;
+  cursor: pointer;
+  transition: background-color 0.4s, fill 0.4s;
+}
+
+header .svgContainer:hover {
+  background-color: black;
+  fill: white;
 }
