@@ -1,0 +1,17 @@
+main {
+  padding: 5% 20%;
+}
+
+main section.detail {
+  display: flex;
+  flex-direction: column;
+}
+
+main #logo{
+  height: 2rem;
+  width: auto;
+}
+
+main section.detail #detail__title {
+  font-size: 4rem;
+}

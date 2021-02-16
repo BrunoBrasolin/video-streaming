@@ -11,3 +11,8 @@ body {
   font: 400 14px "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
