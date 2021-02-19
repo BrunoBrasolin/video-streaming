@@ -7,11 +7,26 @@ main section.detail {
   flex-direction: column;
 }
 
-main #logo{
+main #logo {
   height: 2rem;
   width: auto;
 }
 
-main section.detail #detail__title {
+main section#detail #detail__title {
   font-size: 4rem;
+}
+
+main section#detail #detail__info {
+  margin: 1rem 0;
+  display: flex;
+  align-items: center;
+}
+
+main section#detail #detail__info span {
+  margin-right: 0.75rem;
+  font-weight: bold;
+}
+
+main section#detail #detail__about {
+  color: #9e9e9e;
 }
