@@ -23,8 +23,23 @@ export default function Video() {
               maiores asperiores, perferendis tempore!
             </p>
           </section>
+          <section id="actions">
+            <div id="actions__action-container">
+              <span>Play S4 E10</span>
+            </div>
+            <div id="actions__action-container">
+              <span>All episodes</span>
+            </div>
+            <div id="actions__action-container">
+              <span>Audio & Subtitles</span>
+            </div>
+            <div id="actions__action-container">
+              <span>Remove from list</span>
+            </div>
+          </section>
         </section>
-        <img id="side-image" src="https://source.unsplash.com/300x625/?anime" alt="Random" title="Random" />
+        <img id="aside-image" src="https://source.unsplash.com/300x625/?anime" alt="Random" title="Random" />
+        <div id="aside-background"></div>
       </main>
     </>
   );

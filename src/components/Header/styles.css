@@ -55,5 +55,6 @@ header .svgContainer {
 
 header .svgContainer:hover {
   background-color: black;
+  border: 1px solid white;
   fill: white;
 }

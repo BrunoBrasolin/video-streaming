@@ -35,10 +35,33 @@ main section#detail #detail__about {
   color: #9e9e9e;
 }
 
-img#side-image {
+main section#actions {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 5rem;
+}
+
+main section#actions #actions__action-container {
+  width: 50%;
+  padding: 0 0.5rem;
+  margin: 1rem 0;
+}
+
+img#aside-image {
   position: fixed;
   right: 13%;
   top: 15%;
   width: 300px;
   height: 100%;
+}
+
+#aside-background {
+  background-color: #03000f;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 25vw;
+  z-index: -1;
 }
