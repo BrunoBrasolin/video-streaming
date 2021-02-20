@@ -1,6 +1,6 @@
 {
-  "name": "streaming-page",
-  "homepage": "http://brunobrasolin.github.io/streaming-page",
+  "name": "video-streaming",
+  "homepage": "http://brunobrasolin.github.io/video-streaming",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
