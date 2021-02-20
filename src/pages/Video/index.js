@@ -10,8 +10,8 @@ export default function Video() {
       <Header />
       <main className="container">
         <section id="content">
-          <img id="logo" src={NetflixLogo} alt="Netflix" title="Netflix" />
           <section id="detail">
+            <img id="logo" src={NetflixLogo} alt="Netflix" title="Netflix" />
             <h2 id="detail__title">Video Title</h2>
             <section id="detail__info">
               <span title={`${3.5} de 5`}>{Stars(3.5)}</span>

@@ -20,9 +20,11 @@ img {
 
 main.container {
   padding: 0 13%;
-  height: 75vh;
+  height: 85vh;
 
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+
+  cursor: default;
 }

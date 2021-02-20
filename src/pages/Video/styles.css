@@ -5,6 +5,8 @@ main section#content {
 main section.detail {
   display: flex;
   flex-direction: column;
+  height: 100%;
+  justify-content: space-evenly;
 }
 
 main #logo {
