@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/video-streaming/static/css/main.10c7d6ec.chunk.css",
-    "main.js": "/video-streaming/static/js/main.9e292f6e.chunk.js",
-    "main.js.map": "/video-streaming/static/js/main.9e292f6e.chunk.js.map",
+    "main.css": "/video-streaming/static/css/main.26f7e6d5.chunk.css",
+    "main.js": "/video-streaming/static/js/main.d83d9846.chunk.js",
+    "main.js.map": "/video-streaming/static/js/main.d83d9846.chunk.js.map",
     "runtime-main.js": "/video-streaming/static/js/runtime-main.2d924532.js",
     "runtime-main.js.map": "/video-streaming/static/js/runtime-main.2d924532.js.map",
     "static/js/2.7c73f622.chunk.js": "/video-streaming/static/js/2.7c73f622.chunk.js",
     "static/js/2.7c73f622.chunk.js.map": "/video-streaming/static/js/2.7c73f622.chunk.js.map",
     "index.html": "/video-streaming/index.html",
-    "static/css/main.10c7d6ec.chunk.css.map": "/video-streaming/static/css/main.10c7d6ec.chunk.css.map",
+    "static/css/main.26f7e6d5.chunk.css.map": "/video-streaming/static/css/main.26f7e6d5.chunk.css.map",
     "static/js/2.7c73f622.chunk.js.LICENSE.txt": "/video-streaming/static/js/2.7c73f622.chunk.js.LICENSE.txt",
     "static/media/Netflix_Logo_RGB.f4070143.png": "/video-streaming/static/media/Netflix_Logo_RGB.f4070143.png",
     "static/media/empty-star.e2d206cd.svg": "/video-streaming/static/media/empty-star.e2d206cd.svg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.2d924532.js",
     "static/js/2.7c73f622.chunk.js",
-    "static/css/main.10c7d6ec.chunk.css",
-    "static/js/main.9e292f6e.chunk.js"
+    "static/css/main.26f7e6d5.chunk.css",
+    "static/js/main.d83d9846.chunk.js"
   ]
 }
