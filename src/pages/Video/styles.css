@@ -1,5 +1,5 @@
 main section#content {
-  width: 65%;
+  width: 50%;
 }
 
 main section.detail {
@@ -74,7 +74,7 @@ img#aside-image {
   position: fixed;
   right: 13%;
   top: 15%;
-  width: 300px;
+  width: auto;
   height: 100%;
 }
 
