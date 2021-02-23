@@ -15,5 +15,7 @@ Built with [React](https://reactjs.org/)
 - [ ] Time update every minute
 - [ ] Video player with dummy video
 - [ ] Mobile
+- [ ] Show trailer
+- [ ] Show cast
 - [ ] Home Page
 - [ ] Login/register page
