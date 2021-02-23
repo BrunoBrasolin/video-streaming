@@ -6,6 +6,11 @@ import "./styles.css";
 
 export default function Video() {
   const [like, setLike] = useState(false);
+
+  navigator.geolocation.getCurrentPosition(function (position) {
+    console.log("Latitude is :", position);
+  });
+
   return (
     <>
       <Header />

@@ -18,9 +18,13 @@ img {
   height: auto;
 }
 
+header {
+  height: 10vh;
+}
+
 main.container {
   padding: 0 13%;
-  height: 85vh;
+  height: 90vh;
 
   display: flex;
   flex-direction: column;
