@@ -1,10 +1,11 @@
-import React from "react";
+import React, { useState } from "react";
 import Header from "../../components/Header";
 import NetflixLogo from "../../assets/images/Netflix_Logo_RGB.png";
 import Stars from "../../functions/Stars";
 import "./styles.css";
 
 export default function Video() {
+  const [like, setLike] = useState(false);
   return (
     <>
       <Header />
@@ -32,7 +33,7 @@ export default function Video() {
               <span>Play</span>
             </div>
 
-            <div id="actions__action-container">
+            <div id="actions__action-container" className={like ? "liked" : ""} onClick={() => setLike(!like)}>
               {/* <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd">
                 <path d="M15 21v-10l9 5-9 5zm-3 0h-12v-2h12v2zm0-4.024h-12v-2h12v2zm0-3.976h-12v-2h12v2zm12-4h-24v-2h24v2zm0-6v2h-24v-2h24z" />
               </svg> */}
