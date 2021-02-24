@@ -38,8 +38,8 @@ main section#detail #detail__about {
 
 main section#actions {
   display: grid;
-  grid-template-columns: auto auto;
-  justify-content: space-around;
+  grid-template-columns: repeat(2, 40%);
+  justify-content: space-evenly;
   flex-wrap: wrap;
   margin-top: 5rem;
 }
