@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/video-streaming/static/css/main.26f7e6d5.chunk.css",
-    "main.js": "/video-streaming/static/js/main.d83d9846.chunk.js",
-    "main.js.map": "/video-streaming/static/js/main.d83d9846.chunk.js.map",
-    "runtime-main.js": "/video-streaming/static/js/runtime-main.2d924532.js",
-    "runtime-main.js.map": "/video-streaming/static/js/runtime-main.2d924532.js.map",
-    "static/js/2.7c73f622.chunk.js": "/video-streaming/static/js/2.7c73f622.chunk.js",
-    "static/js/2.7c73f622.chunk.js.map": "/video-streaming/static/js/2.7c73f622.chunk.js.map",
+    "main.css": "/video-streaming/static/css/main.1c9a6e3e.chunk.css",
+    "main.js": "/video-streaming/static/js/main.5a984892.chunk.js",
+    "main.js.map": "/video-streaming/static/js/main.5a984892.chunk.js.map",
+    "runtime-main.js": "/video-streaming/static/js/runtime-main.0eecde30.js",
+    "runtime-main.js.map": "/video-streaming/static/js/runtime-main.0eecde30.js.map",
+    "static/js/2.887440ce.chunk.js": "/video-streaming/static/js/2.887440ce.chunk.js",
+    "static/js/2.887440ce.chunk.js.map": "/video-streaming/static/js/2.887440ce.chunk.js.map",
     "index.html": "/video-streaming/index.html",
-    "static/css/main.26f7e6d5.chunk.css.map": "/video-streaming/static/css/main.26f7e6d5.chunk.css.map",
-    "static/js/2.7c73f622.chunk.js.LICENSE.txt": "/video-streaming/static/js/2.7c73f622.chunk.js.LICENSE.txt",
+    "static/css/main.1c9a6e3e.chunk.css.map": "/video-streaming/static/css/main.1c9a6e3e.chunk.css.map",
+    "static/js/2.887440ce.chunk.js.LICENSE.txt": "/video-streaming/static/js/2.887440ce.chunk.js.LICENSE.txt",
     "static/media/Netflix_Logo_RGB.f4070143.png": "/video-streaming/static/media/Netflix_Logo_RGB.f4070143.png",
     "static/media/empty-star.e2d206cd.svg": "/video-streaming/static/media/empty-star.e2d206cd.svg",
     "static/media/full-star.f5f4a7aa.svg": "/video-streaming/static/media/full-star.f5f4a7aa.svg",
     "static/media/half-star.1b56959d.svg": "/video-streaming/static/media/half-star.1b56959d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d924532.js",
-    "static/js/2.7c73f622.chunk.js",
-    "static/css/main.26f7e6d5.chunk.css",
-    "static/js/main.d83d9846.chunk.js"
+    "static/js/runtime-main.0eecde30.js",
+    "static/js/2.887440ce.chunk.js",
+    "static/css/main.1c9a6e3e.chunk.css",
+    "static/js/main.5a984892.chunk.js"
   ]
 }
