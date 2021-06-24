@@ -1,4 +1,4 @@
-header {
+.header {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -6,34 +6,34 @@ header {
   cursor: default;
 }
 
-header img {
+.header img {
   height: 48px;
   width: 48px;
 }
 
-header .primaryText {
+.header .primaryText {
   font-size: 1.1rem;
   font-weight: bold;
 }
 
-header .secondaryText {
+.header .secondaryText {
   font-size: 0.75rem;
   font-weight: bold;
   color: #bbbbbd;
 }
 
-header #usernameDateTime {
+.header #usernameDateTime {
   display: flex;
   align-items: center;
 }
 
-header .content {
+.header .content {
   display: flex;
   flex-direction: column;
   margin-left: 1rem;
 }
 
-header .svgContainer {
+.header .svgContainer {
   background-color: white;
   border: 1px solid black;
   border-radius: 50%;
@@ -43,18 +43,18 @@ header .svgContainer {
   transition: background-color 0.4s, fill 0.4s;
 }
 
-header .svgContainer:hover {
+.header .svgContainer:hover {
   background-color: black;
   border: 1px solid white;
   fill: white;
 }
 
-header nav ul {
+.header .navbar .list {
   list-style-type: none;
   display: flex;
 }
 
-header nav ul li a {
+.header .navbar .list .item .link {
   text-transform: uppercase;
   font-weight: 500;
   color: #9e9e9e;
@@ -64,6 +64,6 @@ header nav ul li a {
   font-size: 1.1rem;
 }
 
-header nav ul li a:hover {
+.header .navbar .list .item .link:hover {
   color: #000;
 }
