@@ -3,12 +3,7 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 15px 30px;
-  transition: box-shadow 0.4s;
   cursor: default;
-}
-
-header:hover {
-  box-shadow: -9px -7px 17px rgb(0 0 0 / 50%);
 }
 
 header img {
