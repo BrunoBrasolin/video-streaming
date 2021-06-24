@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/video-streaming/static/css/main.1c9a6e3e.chunk.css",
+    "main.css": "/video-streaming/static/css/main.8024acdb.chunk.css",
     "main.js": "/video-streaming/static/js/main.5a984892.chunk.js",
     "main.js.map": "/video-streaming/static/js/main.5a984892.chunk.js.map",
     "runtime-main.js": "/video-streaming/static/js/runtime-main.0eecde30.js",
@@ -8,7 +8,7 @@
     "static/js/2.887440ce.chunk.js": "/video-streaming/static/js/2.887440ce.chunk.js",
     "static/js/2.887440ce.chunk.js.map": "/video-streaming/static/js/2.887440ce.chunk.js.map",
     "index.html": "/video-streaming/index.html",
-    "static/css/main.1c9a6e3e.chunk.css.map": "/video-streaming/static/css/main.1c9a6e3e.chunk.css.map",
+    "static/css/main.8024acdb.chunk.css.map": "/video-streaming/static/css/main.8024acdb.chunk.css.map",
     "static/js/2.887440ce.chunk.js.LICENSE.txt": "/video-streaming/static/js/2.887440ce.chunk.js.LICENSE.txt",
     "static/media/Netflix_Logo_RGB.f4070143.png": "/video-streaming/static/media/Netflix_Logo_RGB.f4070143.png",
     "static/media/empty-star.e2d206cd.svg": "/video-streaming/static/media/empty-star.e2d206cd.svg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.0eecde30.js",
     "static/js/2.887440ce.chunk.js",
-    "static/css/main.1c9a6e3e.chunk.css",
+    "static/css/main.8024acdb.chunk.css",
     "static/js/main.5a984892.chunk.js"
   ]
 }
