@@ -1,0 +1,29 @@
+.dark-theme .video-page .detail .detail__title {
+	color: #fff;
+}
+
+.dark-theme .video-page .detail .detail__info span {
+	color: #fff;
+}
+
+.dark-theme .video-page .detail .detail__about {
+	color: rgba(255, 255, 255, 0.87);
+}
+
+.dark-theme .header .navbar .list .item .link:hover {
+	color: #fff;
+}
+
+.dark-theme .video-page .actions .actions__action-container {
+	background-color: #000;
+	color: rgba(255, 255, 255, 0.87);
+}
+
+.dark-theme .video-page .actions .actions__action-container:hover {
+	box-shadow: 0px 0px 10px 0px rgb(255, 255, 255, 0.1);
+	color: #fff;
+}
+
+.dark-theme .aside-background {
+  background-color: #2d0000;
+}

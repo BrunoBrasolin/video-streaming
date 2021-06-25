@@ -49,7 +49,7 @@ main.video-page {
 
 .video-page .detail .detail__about {
 	color: #9e9e9e;
-  width: 75%;
+	width: 75%;
 }
 
 .video-page .actions {
@@ -68,7 +68,7 @@ main.video-page {
 	background-color: #f9f9f9;
 	border-radius: 8px;
 	cursor: pointer;
-	transition: box-shadow 0.5s, background-color 0.5s, color 0.5s;
+	transition: 0.5s;
 	font-weight: bold;
 	color: #b9bbba;
 }
@@ -103,7 +103,7 @@ main.video-page {
 }
 
 .aside-background {
-	background-color: #03000f;
+	background-color: #630404;
 	position: absolute;
 	top: 0;
 	right: 0;

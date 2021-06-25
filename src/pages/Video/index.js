@@ -5,6 +5,7 @@ import NetflixLogo from '../../assets/images/Netflix_Logo_RGB.png';
 import { FaPlayCircle, FaThumbsUp, FaPlusCircle, FaTimesCircle, FaFilm } from 'react-icons/fa';
 
 import './styles.css';
+import './dark-theme.css';
 
 export default function Video() {
 	const [like, setLike] = useState(false);

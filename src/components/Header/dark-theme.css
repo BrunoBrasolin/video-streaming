@@ -1,0 +1,13 @@
+.dark-theme .header .svgContainer {
+	background-color: #000;
+	border: 1px solid #fff;
+}
+
+.dark-theme .header .primaryText {
+	color: #fff;
+}
+
+.dark-theme .header .secondaryText,
+.dark-theme .header .navbar .list .item .link {
+	color: rgba(255, 255, 255, 0.87);
+}
