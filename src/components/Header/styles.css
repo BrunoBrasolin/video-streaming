@@ -23,7 +23,7 @@
   color: #bbbbbd;
 }
 
-.header #usernameDateTime {
+.header .usernameDateTime {
   display: flex;
   align-items: center;
 }
