@@ -14,8 +14,8 @@ export default function Header() {
 
 				<div className="content">
 					<span className="primaryText">
-						{new Date().getHours()}:{new Date().getMinutes() < 10 ? '0' : ''}
-						{new Date().getMinutes()}
+						{new Date().getHours()}:
+						{new Date().getMinutes() < 10 ? '0' : ''}{new Date().getMinutes()}
 					</span>
 					<span className="secondaryText">
 						{days[new Date().getDay()]}, {new Date().getDate()} de {months[new Date().getMonth()]}
